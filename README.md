@@ -1,4 +1,4 @@
-## Hey, I'm Rasel Rana! 👋
+## Hey, I'm Rasel Rana!
 
 I'm a passionate full-stack web developer with a knack for turning ideas into digital realities. I thrive on crafting intuitive and visually appealing web experiences that not only meet but exceed user expectations. With a strong foundation in web technologies and a genuine love for coding, I'm committed to creating solutions that make a difference.
 
@@ -16,7 +16,7 @@ I believe in the continuous evolution of web technologies, and I'm always eager 
 
 ### Let's Connect
 
-Looking forward to connecting with fellow developers and creating amazing web experiences together! 🚀
+Looking forward to connecting with fellow developers and creating amazing web experiences together!
 
 ### Tech Stack
 
