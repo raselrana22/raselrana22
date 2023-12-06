@@ -18,8 +18,9 @@ I believe in the continuous evolution of web technologies, and I'm always eager 
 
 Looking forward to connecting with fellow developers and creating amazing web experiences together!
 
-### Tech Stack
+# Tech Stack
 
+![HTML5](https://img.shields.io/badge/HTML5-%E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -27,7 +28,12 @@ Looking forward to connecting with fellow developers and creating amazing web ex
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 
+### Tools
+
+- **Version Control:** Git
+- **IDE:** Visual Studio Code (VS Code)
 
 ### GitHub Stats
 
